@@ -12,7 +12,7 @@ namespace quanlychungcu
 {
     class Connect
     {
-        private static string connStr = @"Data Source=DESKTOP-DNGF0KP;Initial Catalog=smallTower_db;Persist Security Info=True;User ID=sa;pwd=123";
+        private static string connStr = @"Data Source=DESKTOP-I8LQN2V;Initial Catalog=smallTower_db;Persist Security Info=True;User ID=sa;pwd=123";
 
         public Connect()
         {
